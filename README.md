@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](Logo.png)
 # My HealthData Core
 
 *DayOne Health Hack Basel, Switzerland on October 23 - November 8. 2020* #dayonebasel
