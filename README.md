@@ -20,7 +20,7 @@ Participants (please check the project link for an update):
 
 Join our Slack channel [here](https://slack.com/app_redirect?channel=my-healthdata-core)
 
-# Summary
+## Summary
 Patients see multiple practioners at numerous institutions throughout their treatment journey. My Data Core centralizes and makes data records easily accessible. The benefits are reduction in time, clarity in health data, reduction in costs.
  
 ## The challenge:
