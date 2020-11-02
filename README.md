@@ -36,6 +36,7 @@ We aimed to offer a free, efficient and scalable solution to patients willing to
 *how did we interact to design a solution that meets the needs of the stakeholders?*
 
 [Champion E.T. (7)](https://www.google.com/url?q=https://2020.healthhack.solutions/project/20&sa=D&ust=1603408444985000&usg=AOvVaw1vMYLQc0AksKvDYG6NGEmS) provided us with her medical experience and helped us to define the relevant features of My-Health-DataCore.
+
 [Champion S.R. (8)](https://www.google.com/url?q=https://2020.healthhack.solutions/project/21&sa=D&ust=1603408444983000&usg=AOvVaw1xwmbnQQLHt4Sbpo38LzlA) helped us to set up the project on the DayOne Health Hack platform.
 
 ## Description of the solution:
