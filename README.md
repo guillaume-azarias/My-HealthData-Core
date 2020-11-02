@@ -25,6 +25,7 @@ Patients see multiple practioners at numerous institutions throughout their trea
  
 ## The challenge:
 *From our perspective, what was the main problem that we set out to solve?*
+
 Doctors have to generate diagnosis with a limited amount of information, far smaller than the existing amount of health data collected by all other doctors. This situation leads to repeat unnecessary, sometime painful, medical investigations because of the lack of accessibility between health data.
 We aimed to offer a free, efficient and scalable solution to patients willing to centralise and share his health data between the medical doctors. The application was designed to exhibit the following features:
 - Be accessible from mobile and the web
