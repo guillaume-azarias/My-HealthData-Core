@@ -1,3 +1,6 @@
+![Logo](logo.png)
+# My HealthData Core
+
 *DayOne Health Hack Basel, Switzerland on October 23 - November 8. 2020* #dayonebasel
 
 Link to the challenge: [My Data Core](https://2020.healthhack.solutions/project/11)
@@ -17,7 +20,7 @@ Participants (please check the project link for an update):
 
 Join our Slack channel [here](https://slack.com/app_redirect?channel=my-healthdata-core)
 
-# My-HealthData-Core
+# Summary
 Patients see multiple practioners at numerous institutions throughout their treatment journey. My Data Core centralizes and makes data records easily accessible. The benefits are reduction in time, clarity in health data, reduction in costs.
  
 ## The challenge:
