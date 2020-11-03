@@ -7,6 +7,8 @@ Link to the challenge: [My Data Core](https://2020.healthhack.solutions/project/
 
 Link to the project: [My-HealthData-Core](https://2020.healthhack.solutions/project/78)
 
+Link Video [Document for the script](https://docs.google.com/document/d/1yN0PwSLvqkVO6bpSZoTVLwXXCMb9zyi9jvuTo-nOk0E/edit?usp=sharing)
+
 Participants (please check the project link for an update):
 - [simone_mona_raisch 🧬](https://2020.healthhack.solutions/user/simone_mona_raisch)
 - [j-p_corry](https://2020.healthhack.solutions/user/j-p_corry)
