@@ -8,7 +8,7 @@ Link to the challenge: [My Data Core](https://2020.healthhack.solutions/project/
 Link to the project: [My-HealthData-Core](https://2020.healthhack.solutions/project/78)
 
 Participants (please check the project link for an update):
-- [simone_mona_raisch](https://2020.healthhack.solutions/user/simone_mona_raisch)
+- [simone_mona_raisch 🧬]](https://2020.healthhack.solutions/user/simone_mona_raisch)
 - [j-p_corry](https://2020.healthhack.solutions/user/j-p_corry)
 - [bhupinder_bhullar 🧬](https://2020.healthhack.solutions/user/bhupinder_bhullar)
 - [Guillaume Azarias ⚙️](https://2020.healthhack.solutions/user/GuillaumeAzarias)
@@ -17,6 +17,12 @@ Participants (please check the project link for an update):
 - [prabitha_urwyler 🧬](https://2020.healthhack.solutions/user/prabitha_urwyler)
 - [Egle_Thomas](https://2020.healthhack.solutions/user/Egle_Thomas)
 - [maxim_popov](https://2020.healthhack.solutions/user/maxim_popov)
+- [Perki](https://2020.healthhack.solutions/user/Perki)
+- [ruben_risco](https://2020.healthhack.solutions/user/ruben_risco)
+- [muriel_bekto](https://2020.healthhack.solutions/user/muriel_bekto)
+- [jayp18](https://2020.healthhack.solutions/user/jayp18)
+- [amy_wilson 🧬 🛡️](https://2020.healthhack.solutions/user/amy_wilson)
+
 
 Join our Slack channel [here](https://slack.com/app_redirect?channel=my-healthdata-core)
 
