@@ -5,11 +5,13 @@
 
 Link to the challenge: [My Data Core](https://2020.healthhack.solutions/project/11)
 
-Link to the project: [My-HealthData-Core](https://2020.healthhack.solutions/project/78)
+Link to our project: [My-HealthData-Core](https://2020.healthhack.solutions/project/78)
 
-Link Video [Document for the script](https://docs.google.com/document/d/1yN0PwSLvqkVO6bpSZoTVLwXXCMb9zyi9jvuTo-nOk0E/edit?usp=sharing)
+Join our Slack channel [here](https://slack.com/app_redirect?channel=my-healthdata-core)
 
 Link to our Google Drive to share data: [Google Drive](https://drive.google.com/drive/folders/13_zgY11NxV_rfvS_OGldZ6Ti7ApjCi64?usp=sharing)
+
+Link to the working document for our Video: [Word doc](https://docs.google.com/document/d/1yN0PwSLvqkVO6bpSZoTVLwXXCMb9zyi9jvuTo-nOk0E/edit?usp=sharing)
 
 Participants (please check the project link for an update):
 - [simone_mona_raisch 🧬](https://2020.healthhack.solutions/user/simone_mona_raisch)
@@ -26,9 +28,6 @@ Participants (please check the project link for an update):
 - [muriel_bekto](https://2020.healthhack.solutions/user/muriel_bekto)
 - [jayp18](https://2020.healthhack.solutions/user/jayp18)
 - [amy_wilson 🧬 🛡️](https://2020.healthhack.solutions/user/amy_wilson)
-
-
-Join our Slack channel [here](https://slack.com/app_redirect?channel=my-healthdata-core)
 
 ## Summary
 Patients see multiple practioners at numerous institutions throughout their treatment journey. My Data Core centralizes and makes data records easily accessible. The benefits are reduction in time, clarity in health data, reduction in costs.
@@ -72,3 +71,5 @@ Week 1: Designed of the goal and of the user interface. Exploration of existing 
 
 ## What´s next:
 how we would like to proceed and what we need to do so
+
+> If you would like anything related to the GitHub (access, change/add doc), please contact Guillaume Azarias through Slack.
