@@ -9,6 +9,8 @@ Link to the project: [My-HealthData-Core](https://2020.healthhack.solutions/proj
 
 Link Video [Document for the script](https://docs.google.com/document/d/1yN0PwSLvqkVO6bpSZoTVLwXXCMb9zyi9jvuTo-nOk0E/edit?usp=sharing)
 
+Link to our Google Drive to share data: [Google Drive](https://drive.google.com/drive/folders/13_zgY11NxV_rfvS_OGldZ6Ti7ApjCi64?usp=sharing)
+
 Participants (please check the project link for an update):
 - [simone_mona_raisch 🧬](https://2020.healthhack.solutions/user/simone_mona_raisch)
 - [j-p_corry](https://2020.healthhack.solutions/user/j-p_corry)
