@@ -3,15 +3,15 @@
 
 *DayOne Health Hack Basel, Switzerland on October 23 - November 8. 2020* #dayonebasel
 
-Link to the challenge: [My Data Core](https://2020.healthhack.solutions/project/11)
+Link to the challenge on the DayOne HealthHack website: [My Data Core](https://2020.healthhack.solutions/project/11)
 
-Link to our project: [My-HealthData-Core](https://2020.healthhack.solutions/project/78)
+Link to our project on the DayOne HealthHack website: [My-HealthData-Core](https://2020.healthhack.solutions/project/78)
 
-Join our Slack channel [here](https://slack.com/app_redirect?channel=my-healthdata-core)
+Join our Slack channel: [#my-healthdata-core](https://slack.com/app_redirect?channel=my-healthdata-core)
 
 Link to our Google Drive to share data: [Google Drive](https://drive.google.com/drive/folders/13_zgY11NxV_rfvS_OGldZ6Ti7ApjCi64?usp=sharing)
 
-Link to the working document for our Video: [Word doc](https://docs.google.com/document/d/1yN0PwSLvqkVO6bpSZoTVLwXXCMb9zyi9jvuTo-nOk0E/edit?usp=sharing)
+Link to the document for the design of our Video: [Word doc](https://docs.google.com/document/d/1yN0PwSLvqkVO6bpSZoTVLwXXCMb9zyi9jvuTo-nOk0E/edit?usp=sharing)
 
 Participants (please check the project link for an update):
 - [simone_mona_raisch 🧬](https://2020.healthhack.solutions/user/simone_mona_raisch)
