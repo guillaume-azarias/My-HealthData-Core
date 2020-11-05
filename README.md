@@ -28,6 +28,8 @@ Participants (please check the project link for an update):
 - [muriel_bekto](https://2020.healthhack.solutions/user/muriel_bekto)
 - [jayp18](https://2020.healthhack.solutions/user/jayp18)
 - [amy_wilson 🧬 🛡️](https://2020.healthhack.solutions/user/amy_wilson)
+- [pascal_detampel](https://2020.healthhack.solutions/user/pascal_detampel)
+- [ PeterHummelUX 🖍️](https://2020.healthhack.solutions/user/PeterHummelUX)
 
 ## Summary
 Patients see multiple practioners at numerous institutions throughout their treatment journey. My Data Core centralizes and makes data records easily accessible. The benefits are reduction in time, clarity in health data, reduction in costs.
