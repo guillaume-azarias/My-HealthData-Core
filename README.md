@@ -72,6 +72,7 @@ Our Patient Champions will benefit to have their own complete set of records in 
 
 ## Our Milestones, achievements and prototype
 Week 1:  Design of the goal and of the user interface. Exploration of existing tools.
+
 Week 2: Access to Patient Data records. UI/UX Prototype Design. 
 
 ## Challenges we encountered
