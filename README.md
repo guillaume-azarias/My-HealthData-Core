@@ -9,6 +9,8 @@ Link to our project on the DayOne HealthHack website: [My-HealthData-Core](https
 
 Join our Slack channel: [#my-healthdata-core](https://slack.com/app_redirect?channel=my-healthdata-core)
 
+Link to the GitHub content as a Google doc for edition: [GitHub content](https://drive.google.com/file/d/11BEgtJmED06fV33IZP0ObuELakOdxWWi/view?ts=5fa42ffe)
+
 Link to our Google Drive to share data: [Google Drive](https://drive.google.com/drive/folders/13_zgY11NxV_rfvS_OGldZ6Ti7ApjCi64?usp=sharing)
 
 Link to the document for the design of our Video: [Word doc](https://docs.google.com/document/d/1yN0PwSLvqkVO6bpSZoTVLwXXCMb9zyi9jvuTo-nOk0E/edit?usp=sharing)
