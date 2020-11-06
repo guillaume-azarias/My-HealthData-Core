@@ -11,6 +11,8 @@ Join our Slack channel: [#my-healthdata-core](https://slack.com/app_redirect?cha
 
 Link to the GitHub content as a Google doc for edition: [GitHub content](https://drive.google.com/file/d/11BEgtJmED06fV33IZP0ObuELakOdxWWi/view?ts=5fa42ffe)
 
+Link to the document on hack experience: [Hack experience](https://docs.google.com/document/d/1I78Qt5QMdAVZ9858dfdy2BUX7FfCwZ1r2GrVJej7Iz8/edit)
+
 Link to our Google Drive to share data: [Data](https://drive.google.com/drive/folders/13_zgY11NxV_rfvS_OGldZ6Ti7ApjCi64?usp=sharing)
 
 Link to the document for the design of our Video: [Video](https://docs.google.com/document/d/1yN0PwSLvqkVO6bpSZoTVLwXXCMb9zyi9jvuTo-nOk0E/edit?usp=sharing)
