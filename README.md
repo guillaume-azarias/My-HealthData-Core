@@ -130,15 +130,19 @@ We used the software Adobe Photoshop, Slack, Powerpoint, Google Drive.
 
 ## Contact / promotion channels on our social media
 
-DayOne webpage and GitHub page.
+[DayOne webpage](https://2020.healthhack.solutions/project/78) and GitHub page.
 
 
 ## Our takeaways and learnings
 
 While we focussed on the needs of our patient champions, this solution is valid for any chronic disease and any healthcare users.
+
 We appreciated the opportunity to co-design with the patients. Many solutions are designed to be highly beneficial and functional, yet patients do not use them as they might not feel intuitive. Our patient champions challenged us to make the solution highly intuitive to people under stress, helping them to navigate easily and intuitively.
+
 We also learned that it is possible to quickly form a highly efficient team.  While there were challenges, just like in all newly formed teams, being driven by a common purpose helped us to align and find solutions to all key areas very quickly.
+
 We further appreciated having a high diversity of skills in the team. The team members jumped in quickly to drive specific parts of the project, coordinating between themselves, making the team to be highly democratic in all decision making. It enabled highly diverse thinking and solution options, which then were integrated into the final product.
+
 Finally, we appreciated the opportunity to work on this project together so much, that we are now looking for opportunities to continue driving it forward post-hackathon. We hope that we can get support through the DayOne accelerator, to help us launch this highly beneficial solution to the patients.
 
 
