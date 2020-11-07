@@ -81,8 +81,8 @@ Guillaume Azarias: I set up the GitHub for the flow of information and webpage o
 My HealthData Core is a light app, working on mobiles and websites designed to be patient-friendly and easy to navigate *during a medical appointment*. It allows to
 
 -	Display a Timeline viewer with links to individual patient data records. 
--	upload data with the website or the mobile camera
--	Define the persons allowed to access specific documents (ie. dynamic consent at a granular level).
+-	Upload data with the website or the mobile camera
+-	Define the persons allowed to access specific documents (ie. dynamic consent at a *granular* level).
 
 Our Patient Champions will benefit from having access to their own complete set of health/medical records in a single place, thus allowing them to not only be more informed but also enabling them to actively participate in their healthcare journey. 
 Some of the benefits to Patients are:
