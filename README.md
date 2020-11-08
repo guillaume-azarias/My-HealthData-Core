@@ -9,11 +9,11 @@
 
 Patients visit multiple practitioners at numerous institutions throughout their healthcare journey. For some patients, especially chronic disease patients, this involves diverse and recurring courses of treatments for multiple different indications. Throughout our lifetimes, we all accumulate **thousands** of health/medical data points that are typically siloed such that they are inaccessible to patients or other healthcare providers.
 
-The My Health Data Core team aims to create a **patient-friendly repository for medical/health records**, including data such as doctors notes, prescriptions, treatment plans, diagnoses, lab test results, and more. The benefits include: control + empowerment for patients, time savings for patients and doctors, interoperability of health data (removing silos), a reduction in overall healthcare costs, almost importantly improved patient outcomes.
+The My Health Data Core team aims to create a **patient-friendly repository for medical/health records**, including data such as doctors notes, prescriptions, treatment plans, diagnoses, lab test results, and more. The benefits include: control + empowerment for patients, time savings for patients and doctors, interoperability of health data (removing silos), a reduction in overall healthcare costs, and most importantly improved patient outcomes.
 
-* Our mission is to **help patients assemble a digital copy of their own medical records for future easy access and quick retrieval**.  
+* Our MISSION is to **help patients assemble a digital copy of their own medical records for future easy access and quick retrieval**.  
 
-* Our vision is to **co-create the future of patient-centric medicine by enabling a data-driven healthcare ecosystem**.
+* Our VISION is to **co-create the future of patient-centric medicine by enabling a data-driven healthcare ecosystem**.
 
  
 ## The challenge:
@@ -57,10 +57,11 @@ developer and what could be achieved in the time period we had. Given the resour
 ## Description of the solution:
 ![preview](App_StartScreen_Phone.png)
 
-My Health Data Core is a light app, working on mobiles and websites designed to be patient-friendly and easy to navigate *during a medical appointment*. It allows to
+My Health Data Core is a light app, working on mobiles and websites designed to be patient-friendly and easy to navigate *during a medical appointment*. It allows you, as a patient, to:
 
 -	Display a Timeline viewer with links to individual patient data records. 
--	Upload data with the website or the mobile camera
+-	Upload any medical/health data through the Uploader feature (app or website)
+as a document or using the mobile camera.
 -	Define the persons allowed to access specific documents (ie. dynamic consent at a *granular* level).
 
 Our Patient Champions will benefit from having access to their own complete set of health/medical records in a single place, thus allowing them to not only be more informed but also enabling them to actively participate in their healthcare journey. 
@@ -73,6 +74,7 @@ Some of the benefits to Patients are:
 -	Reduces delays in care decisions and optimizes treatments.
 
 Some of the benefits to other stakeholders in the Healthcare Ecosystem are:
+
 - Avoids re-collection of medical history, repeated laboratory tests, and thus saves time and money for practitioners.
 - Minimizes the risk of medical mistakes.
 - Allows precision-medicine so that providers can optimise the treatments for each individual patient.
