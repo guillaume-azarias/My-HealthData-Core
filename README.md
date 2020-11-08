@@ -36,7 +36,7 @@ Key team contributions included:
 
 - *Peter Hummel*: Peter (User Experience Design) gave our ideas a face. He designed a user interface and produced a demo that explained the functionality.
 
-*Jayesh Patel*: As Software Developer/Consultant, I gathered the requirements from the initial meetings and gave input from the viewpoint of an experienced software
+- *Jayesh Patel*: As Software Developer/Consultant, I gathered the requirements from the initial meetings and gave input from the viewpoint of an experienced software
 developer and what could be achieved in the time period we had. Given the resources we had access to I used some personal contacts to get a basic website that performed some of the tasks identified in the meetings. I delivered a working demo of a basic functional website with a key TimeLine feature.
 
 - *Ruben Risco*: I Contributed with the 1st draft of the data core solution. Collected and transfered the requirements from the team to a basic Powerpoint sequence with the minimum features. Helped by onboarding key resources to our team as Peter Humel as UX/UI designer for prototyping. Collaborated in providing feedback to the prototype, updated project documentation and executed  project activities. 
