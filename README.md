@@ -161,7 +161,7 @@ Link to the document for the design of our Video: [Video](https://docs.google.co
 
 ## Participants:
 
-- [simone_mona_raisch 🧬](https://2020.healthhack.solutions/user/simone_mona_raisch)
+- [simone_mona_raisch 🧬](https://www.linkedin.com/in/simone-raisch/)
 - [j-p_corry](https://2020.healthhack.solutions/user/j-p_corry)
 - [bhupinder_bhullar 🧬](https://2020.healthhack.solutions/user/bhupinder_bhullar)
 - [Guillaume Azarias ⚙️](https://www.linkedin.com/in/guillaume-azarias/)
