@@ -13,9 +13,9 @@ Patients visit multiple practitioners at numerous institutions throughout their 
 
 The My Health Data Core team aims to create a **patient-friendly repository for medical/health records**, including data such as doctors notes, prescriptions, treatment plans, diagnoses, lab test results, and more. The benefits include: control + empowerment for patients, time savings for patients + doctors, interoperability of health data (removing silos), a reduction in overall healthcare costs, most importantly improved patient outcomes.
 
-Our mission is to **help patients assemble a digital copy of their own medical records for future easy access and quick retrieval**.  
+* Our mission is to **help patients assemble a digital copy of their own medical records for future easy access and quick retrieval**.  
 
-Our vision is to **co-create the future of patient-centric medicine by enabling a data-driven healthcare ecosystem**.
+* Our vision is to **co-create the future of patient-centric medicine by enabling a data-driven healthcare ecosystem**.
 
  
 ## The challenge:
