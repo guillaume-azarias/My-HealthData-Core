@@ -143,6 +143,9 @@ Finally, we appreciated the opportunity to work on this project together so much
 - Scanned documents from the mobile camera (ie. print outs, fax, etc) are indexed by OCR (optical character recognition) in the database to allow for full text search. 
 - Filtering multiple records and providing a secure link to the physician to temporarily access or download the content.
 
+
+## Links
+
 Link to the challenge on the DayOne HealthHack website: [My Data Core](https://2020.healthhack.solutions/project/11)
 
 Link to our project on the DayOne HealthHack website: [My-HealthData-Core](https://2020.healthhack.solutions/project/78)
@@ -155,7 +158,9 @@ Link to our Google Drive to share data: [Data](https://drive.google.com/drive/fo
 
 Link to the document for the design of our Video: [Video](https://docs.google.com/document/d/1yN0PwSLvqkVO6bpSZoTVLwXXCMb9zyi9jvuTo-nOk0E/edit?usp=sharing)
 
-Participants:
+
+## Participants:
+
 - [simone_mona_raisch 🧬](https://2020.healthhack.solutions/user/simone_mona_raisch)
 - [j-p_corry](https://2020.healthhack.solutions/user/j-p_corry)
 - [bhupinder_bhullar 🧬](https://2020.healthhack.solutions/user/bhupinder_bhullar)
