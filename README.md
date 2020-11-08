@@ -55,6 +55,7 @@ developer and what could be achieved in the time period we had. Given the resour
 
 
 ## Description of the solution:
+![preview](App_StartScreen_Phone.png)
 
 My Health Data Core is a light app, working on mobiles and websites designed to be patient-friendly and easy to navigate *during a medical appointment*. It allows to
 
