@@ -1,46 +1,15 @@
-![Logo](Logo.png)
-# My HealthData Core
+# My Health Data Core
 
 *DayOne Health Hack Basel, Switzerland on October 23 - November 8. 2020* #dayonebasel
 
-Link to the challenge on the DayOne HealthHack website: [My Data Core](https://2020.healthhack.solutions/project/11)
 
-Link to our project on the DayOne HealthHack website: [My-HealthData-Core](https://2020.healthhack.solutions/project/78)
-
-Join our Slack channel: [#my-healthdata-core](https://slack.com/app_redirect?channel=my-healthdata-core)
-
-Link to the GitHub content as a Google doc for edition: [GitHub content](https://drive.google.com/file/d/11BEgtJmED06fV33IZP0ObuELakOdxWWi/view?ts=5fa42ffe)
-
-Link to the document on hack experience: [Hack experience](https://docs.google.com/document/d/1I78Qt5QMdAVZ9858dfdy2BUX7FfCwZ1r2GrVJej7Iz8/edit)
-
-Link to our Google Drive to share data: [Data](https://drive.google.com/drive/folders/13_zgY11NxV_rfvS_OGldZ6Ti7ApjCi64?usp=sharing)
-
-Link to the document for the design of our Video: [Video](https://docs.google.com/document/d/1yN0PwSLvqkVO6bpSZoTVLwXXCMb9zyi9jvuTo-nOk0E/edit?usp=sharing)
-
-Participants (please check the project link for an update):
-- [simone_mona_raisch 🧬](https://2020.healthhack.solutions/user/simone_mona_raisch)
-- [j-p_corry](https://2020.healthhack.solutions/user/j-p_corry)
-- [bhupinder_bhullar 🧬](https://2020.healthhack.solutions/user/bhupinder_bhullar)
-- [Guillaume Azarias ⚙️](https://2020.healthhack.solutions/user/GuillaumeAzarias)
-- [thomas_roos](https://2020.healthhack.solutions/user/thomas_roos)
-- [Elaine K.](https://2020.healthhack.solutions/user/Elaine%20K.)
-- [prabitha_urwyler 🧬](https://2020.healthhack.solutions/user/prabitha_urwyler)
-- [Egle_Thomas](https://2020.healthhack.solutions/user/Egle_Thomas)
-- [maxim_popov](https://2020.healthhack.solutions/user/maxim_popov)
-- [Perki](https://2020.healthhack.solutions/user/Perki)
-- [ruben_risco](https://2020.healthhack.solutions/user/ruben_risco)
-- [muriel_bekto](https://2020.healthhack.solutions/user/muriel_bekto)
-- [jayp18](https://2020.healthhack.solutions/user/jayp18)
-- [amy_wilson 🧬 🛡️](https://2020.healthhack.solutions/user/amy_wilson)
-- [pascal_detampel](https://2020.healthhack.solutions/user/pascal_detampel)
-- [ PeterHummelUX 🖍️](https://2020.healthhack.solutions/user/PeterHummelUX)
 
 
 ## Summary
 
 Patients visit multiple practitioners at numerous institutions throughout their healthcare journey. For some patients, especially chronic disease patients, this involves diverse and recurring courses of treatments for multiple different indications. Throughout our lifetimes, we all accumulate 1000’s of health/medical data points that are typically siloed such that they are inaccessible to patients or other healthcare providers.
 
-The My HealthData Core team aims to create a **patient-friendly repository for medical/health records**, including data such as doctors notes, prescriptions, treatment plans, diagnoses, lab test results, and more. The benefits include: control + empowerment for patients, time savings for patients + doctors, interoperability of health data (removing silos), a reduction in overall healthcare costs, most importantly improved patient outcomes.
+The My Health Data Core team aims to create a **patient-friendly repository for medical/health records**, including data such as doctors notes, prescriptions, treatment plans, diagnoses, lab test results, and more. The benefits include: control + empowerment for patients, time savings for patients + doctors, interoperability of health data (removing silos), a reduction in overall healthcare costs, most importantly improved patient outcomes.
 
 Our mission is to **help patients assemble a digital copy of their own medical records for future easy access and quick retrieval**.  
 
@@ -59,17 +28,25 @@ Doctors have to generate diagnoses and treatment plans using incomplete informat
 
 ## Patient champion interaction and other stakeholders:
 
-Using Slack (My-HealthData-core) project page, our multidisciplinary team of Healthcare Professionals, Scientists, Web Developers, UI/UX Developer and Project Managers interacted with [Champion E.T. (7)](https://www.google.com/url?q=https://2020.healthhack.solutions/project/20&sa=D&ust=1603408444985000&usg=AOvVaw1vMYLQc0AksKvDYG6NGEmS) and [Champion S.R. (8)](https://www.google.com/url?q=https://2020.healthhack.solutions/project/21&sa=D&ust=1603408444983000&usg=AOvVaw1xwmbnQQLHt4Sbpo38LzlA) to define the problem, identify a solution, and co-create a scalable valuable proposition. 
+Using Slack (#My-HealthData-core) project page, our multidisciplinary team of Healthcare Professionals, Scientists, Web Developers, UI/UX Developer and Project Managers interacted with [Champion E.T. (7)](https://www.google.com/url?q=https://2020.healthhack.solutions/project/20&sa=D&ust=1603408444985000&usg=AOvVaw1vMYLQc0AksKvDYG6NGEmS) and [Champion S.R. (8)](https://www.google.com/url?q=https://2020.healthhack.solutions/project/21&sa=D&ust=1603408444983000&usg=AOvVaw1xwmbnQQLHt4Sbpo38LzlA) to define the problem, identify a solution, and co-create a scalable valuable proposition. 
 
-[Champion E.T. (7)](https://www.google.com/url?q=https://2020.healthhack.solutions/project/20&sa=D&ust=1603408444985000&usg=AOvVaw1vMYLQc0AksKvDYG6NGEmS) provided us with her patient journey experience and helped us to define the relevant features of My-HealthData-Core. [Champion S.R. (8)](https://www.google.com/url?q=https://2020.healthhack.solutions/project/21&sa=D&ust=1603408444983000&usg=AOvVaw1xwmbnQQLHt4Sbpo38LzlA) helped us to set up the project on the DayOne Health Hack platform and to shape the features of My-HealthData-Core. Our patient champions stayed involved as core team members throughout the hackathon, being core in our co-designed solution. 
+[Champion E.T. (7)](https://www.google.com/url?q=https://2020.healthhack.solutions/project/20&sa=D&ust=1603408444985000&usg=AOvVaw1vMYLQc0AksKvDYG6NGEmS) provided us with her patient journey experience and helped us to define the relevant features of My Health Data Core. [Champion S.R. (8)](https://www.google.com/url?q=https://2020.healthhack.solutions/project/21&sa=D&ust=1603408444983000&usg=AOvVaw1xwmbnQQLHt4Sbpo38LzlA) helped us to set up the project on the DayOne Health Hack platform and to shape the features of My Health Data Core. Our patient champions stayed involved as core team members throughout the hackathon, being core in our co-designed solution. 
 
+Key team contributions included:
 *Peter Hummel*: Peter (User Experience Design) gave our ideas a face. He designed a user interface and produced a demo that explained the functionality.
 
-*Jayesh Patel*: I took on the role of a software developer for this project. I gathered the requirements from the initial meetings and gave input from the view of an experienced developer and what could be achieved in the time period we had. Given the resources we had access to I used some personal contacts to get a basic website that performed some of the tasks identified in the meetings. I delivered a working demo of a basic functional website with a key TimeLine feature.
+*Jayesh Patel*: As Software Developer/Consultant, I gathered the requirements from the initial meetings and gave input from the viewpoint of an experienced software
+developer and what could be achieved in the time period we had. Given the resources we had access to I used some personal contacts to get a basic website that performed some of the tasks identified in the meetings. I delivered a working demo of a basic functional website with a key TimeLine feature.
 
 *Ruben Risco*: I Contributed with the 1st draft of the data core solution. Collected and transfered the requirements from the team to a basic Powerpoint sequence with the minimum features. Helped by onboarding key resources to our team as Peter Humel as UX/UI designer for prototyping. Collaborated in providing feedback to the prototype, updated project documentation and executed  project activities. 
 
+*Bhupinder Bhullar*: I coordinated project activities, technical strategy development and implemented our pitch video.
+
 *Elaine Kanwar*: I took on the role of Co-ordinator and supported collection of sample data of Patient Health Records required for the UI/UX prototype. Provided inputs for content on Github.
+
+*Egle Thomas*: I sought out required skills and resources, including communicating with the organizing team and project sponsors to collect and share representative patient journey medical images to use in the application and website. She further helped with the documentation of the hackathon journey and the next steps and the pitch development.
+
+*Thomas Roos*: I supported with project coordination and inputs.
 
 *Pascal Detampel*: As a developer and trained pharmacist/pharmacologist, I contributed by trying to connect patient needs and clinical aspects with helpful technical solutions.
 
@@ -78,7 +55,7 @@ Using Slack (My-HealthData-core) project page, our multidisciplinary team of Hea
 
 ## Description of the solution:
 
-My HealthData Core is a light app, working on mobiles and websites designed to be patient-friendly and easy to navigate *during a medical appointment*. It allows to
+My Health Data Core is a light app, working on mobiles and websites designed to be patient-friendly and easy to navigate *during a medical appointment*. It allows to
 
 -	Display a Timeline viewer with links to individual patient data records. 
 -	Upload data with the website or the mobile camera
@@ -119,6 +96,8 @@ Prepared documentation (GitHub) for the project, content for the hackathon submi
 - Differentiation of our solution from indirect competitors that already exist on the market (ie. Umana, Seqster, etc).
 - Lack of access to high-quality, structured patient data. We requested data from various sources, but in the end we were only able to access a minimal set from external partners plus data from ourselves.
 - Data size from some medical assays (ie. NGS, MRI, etc) can be a limitation for the performance of the application, as well as the backend repository for data storage.
+- The time limitation of the Health Hack meant we could not even begin to implement a proper software solution. However, we could present the ideas from the discussion with some mobile and website demo’s.
+- The nature of medical data varies massively from ailment to ailment to different medical centres and countries. Creating specific interfaces for all possible medical data is a near impossible task. So creating something simple that would integrate any piece of medical data and making it easily viewable would be a good way forward.
 
 
 ## Resources that we used
@@ -130,7 +109,7 @@ We used the software Adobe Photoshop, Slack, Powerpoint, Google Drive.
 
 ## Contact / promotion channels on our social media
 
-[DayOne webpage](https://2020.healthhack.solutions/project/78) and GitHub page.
+We set up [DayOne webpage](https://2020.healthhack.solutions/project/78) and GitHub page. We advertised the DayOne HealthHack using social media (eg, LinkedIn and Instagram).
 
 
 ## Our takeaways and learnings
@@ -149,7 +128,7 @@ Finally, we appreciated the opportunity to work on this project together so much
 ## What´s next ?
 
 1. Finalize the prototype using the Agile approach while involving the Patient Champions. Get feedback from a broader group of patients.
-2. Refine the Business Model and Financial Model behind the My HealthData Core platform that will form the basis for developing the MVP. 
+2. Refine the Business Model and Financial Model behind the My Health Data Core platform that will form the basis for developing the MVP. 
 3. Onboard team members with required skill sets and secure the resources required to develop the MVP. This includes: Agile PM, App UI designers, App developers, IT data experts, database experts, and of course Patient Champions. 
 4. Create the MVP and validate it with patients in the real-world. MVP development will be co-created with patients and healthcare sponsors (ie. insurance companies, industry, foundations, patient organisations). 
 5. Participate in an accelerator/incubator program (ie. Day One accelerator!) to develop our MVP and secure funding for the launch of the platform in 2021.
@@ -161,3 +140,33 @@ Finally, we appreciated the opportunity to work on this project together so much
 - Obtain ISO certifications, “Swiss-Made” label, other accreditations/endorsements from patient organisations to gain credibility and the trust of patients.
 - Scanned documents from the mobile camera (ie. print outs, fax, etc) are indexed by OCR (optical character recognition) in the database to allow for full text search. 
 - Filtering multiple records and providing a secure link to the physician to temporarily access or download the content.
+
+Link to the challenge on the DayOne HealthHack website: [My Data Core](https://2020.healthhack.solutions/project/11)
+
+Link to our project on the DayOne HealthHack website: [My-HealthData-Core](https://2020.healthhack.solutions/project/78)
+
+Link to the GitHub content as a Google doc for edition: [GitHub content](https://drive.google.com/file/d/11BEgtJmED06fV33IZP0ObuELakOdxWWi/view?ts=5fa42ffe)
+
+Link to the document on hack experience: [Hack experience](https://docs.google.com/document/d/1I78Qt5QMdAVZ9858dfdy2BUX7FfCwZ1r2GrVJej7Iz8/edit)
+
+Link to our Google Drive to share data: [Data](https://drive.google.com/drive/folders/13_zgY11NxV_rfvS_OGldZ6Ti7ApjCi64?usp=sharing)
+
+Link to the document for the design of our Video: [Video](https://docs.google.com/document/d/1yN0PwSLvqkVO6bpSZoTVLwXXCMb9zyi9jvuTo-nOk0E/edit?usp=sharing)
+
+Participants:
+- [simone_mona_raisch 🧬](https://2020.healthhack.solutions/user/simone_mona_raisch)
+- [j-p_corry](https://2020.healthhack.solutions/user/j-p_corry)
+- [bhupinder_bhullar 🧬](https://2020.healthhack.solutions/user/bhupinder_bhullar)
+- [Guillaume Azarias ⚙️](https://www.linkedin.com/in/guillaume-azarias/)
+- [thomas_roos](https://2020.healthhack.solutions/user/thomas_roos)
+- [Elaine K.](https://2020.healthhack.solutions/user/Elaine%20K.)
+- [prabitha_urwyler 🧬](https://2020.healthhack.solutions/user/prabitha_urwyler)
+- [Egle_Thomas](https://www.linkedin.com/in/eglethomas/)
+- [maxim_popov](https://2020.healthhack.solutions/user/maxim_popov)
+- [Perki](https://2020.healthhack.solutions/user/Perki)
+- [ruben_risco](https://2020.healthhack.solutions/user/ruben_risco)
+- [muriel_bekto](https://2020.healthhack.solutions/user/muriel_bekto)
+- [jayp18](https://2020.healthhack.solutions/user/jayp18)
+- [amy_wilson 🧬 🛡️](https://2020.healthhack.solutions/user/amy_wilson)
+- [pascal_detampel](https://2020.healthhack.solutions/user/pascal_detampel)
+- [ PeterHummelUX 🖍️](https://www.linkedin.com/in/hummelpeter/)
