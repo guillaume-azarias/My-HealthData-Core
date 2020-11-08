@@ -97,7 +97,7 @@ Understanding the 2 main approaches :
 
 
 ## Challenges we encountered
-- Due to the private nature of patient records and compliance regulations, getting sample data records of cancer patients was a challenge. GDPR and data privacy guidelines can be ensured in the next stage as there are existing solutions that we can incorporate (ie. Pryv)
+- Due to the private nature of patient records and compliance regulations, getting sample data records of cancer patients was a challenge. GDPR and data privacy guidelines can be ensured in the next stage as there are existing solutions that we can incorporate (ie. Pryv).
 - As a newly formed team, as it is often the case, team forming and merging ideas from people of different backgrounds into concrete plans and a consensus was sometimes a challenge. We were also missing some core skills, such as front-end development. Bringing new people at the later part of the hackathon was also a bit challenging - updating and including them in the process quickly, yet keeping the process moving.  
 - Deciding what is essential and what is nice to have for the prototype we created during the hackathon.
 - Differentiation of our solution from indirect competitors that already exist on the market (ie. Umana, Seqster, etc).
