@@ -5,8 +5,6 @@
 *DayOne Health Hack Basel, Switzerland on October 23 - November 8. 2020* #dayonebasel
 
 
-
-
 ## Summary
 
 Patients visit multiple practitioners at numerous institutions throughout their healthcare journey. For some patients, especially chronic disease patients, this involves diverse and recurring courses of treatments for multiple different indications. Throughout our lifetimes, we all accumulate **thousands** of health/medical data points that are typically siloed such that they are inaccessible to patients or other healthcare providers.
@@ -35,24 +33,25 @@ Using Slack (#My-HealthData-core) project page, our multidisciplinary team of He
 [Champion E.T. (7)](https://www.google.com/url?q=https://2020.healthhack.solutions/project/20&sa=D&ust=1603408444985000&usg=AOvVaw1vMYLQc0AksKvDYG6NGEmS) provided us with her patient journey experience and helped us to define the relevant features of My Health Data Core. [Champion S.R. (8)](https://www.google.com/url?q=https://2020.healthhack.solutions/project/21&sa=D&ust=1603408444983000&usg=AOvVaw1xwmbnQQLHt4Sbpo38LzlA) helped us to set up the project on the DayOne Health Hack platform and to shape the features of My Health Data Core. Our patient champions stayed involved as core team members throughout the hackathon, being core in our co-designed solution. 
 
 Key team contributions included:
-*Peter Hummel*: Peter (User Experience Design) gave our ideas a face. He designed a user interface and produced a demo that explained the functionality.
+
+- *Peter Hummel*: Peter (User Experience Design) gave our ideas a face. He designed a user interface and produced a demo that explained the functionality.
 
 *Jayesh Patel*: As Software Developer/Consultant, I gathered the requirements from the initial meetings and gave input from the viewpoint of an experienced software
 developer and what could be achieved in the time period we had. Given the resources we had access to I used some personal contacts to get a basic website that performed some of the tasks identified in the meetings. I delivered a working demo of a basic functional website with a key TimeLine feature.
 
-*Ruben Risco*: I Contributed with the 1st draft of the data core solution. Collected and transfered the requirements from the team to a basic Powerpoint sequence with the minimum features. Helped by onboarding key resources to our team as Peter Humel as UX/UI designer for prototyping. Collaborated in providing feedback to the prototype, updated project documentation and executed  project activities. 
+- *Ruben Risco*: I Contributed with the 1st draft of the data core solution. Collected and transfered the requirements from the team to a basic Powerpoint sequence with the minimum features. Helped by onboarding key resources to our team as Peter Humel as UX/UI designer for prototyping. Collaborated in providing feedback to the prototype, updated project documentation and executed  project activities. 
 
-*Bhupinder Bhullar*: I coordinated project activities, technical strategy development and implemented our pitch video.
+- *Bhupinder Bhullar*: I coordinated project activities, technical strategy development and implemented our pitch video.
 
-*Elaine Kanwar*: I took on the role of Co-ordinator and supported collection of sample data of Patient Health Records required for the UI/UX prototype. Provided inputs for content on Github.
+- *Elaine Kanwar*: I took on the role of Co-ordinator and supported collection of sample data of Patient Health Records required for the UI/UX prototype. Provided inputs for content on Github.
 
-*Egle Thomas*: I sought out required skills and resources, including communicating with the organizing team and project sponsors to collect and share representative patient journey medical images to use in the application and website. She further helped with the documentation of the hackathon journey and the next steps and the pitch development.
+- *Egle Thomas*: I sought out required skills and resources, including communicating with the organizing team and project sponsors to collect and share representative patient journey medical images to use in the application and website. She further helped with the documentation of the hackathon journey and the next steps and the pitch development.
 
-*Thomas Roos*: I supported with project coordination and inputs.
+- *Thomas Roos*: I supported with project coordination and inputs.
 
-*Pascal Detampel*: As a developer and trained pharmacist/pharmacologist, I contributed by trying to connect patient needs and clinical aspects with helpful technical solutions.
+- *Pascal Detampel*: As a developer and trained pharmacist/pharmacologist, I contributed by trying to connect patient needs and clinical aspects with helpful technical solutions.
 
-*Guillaume Azarias*: I set up the GitHub for the flow of information and webpage of the project, translated the medical history into data and organised the medical data. I also edited the first draft of the webpage content and contributed to the design the UI/UX prototype.
+- *Guillaume Azarias*: I set up the GitHub for the flow of information and webpage of the project, translated the medical history into data and organised the medical data. I also edited the first draft of the webpage content and contributed to the design the UI/UX prototype.
 
 
 ## Description of the solution:
