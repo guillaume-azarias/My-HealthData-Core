@@ -164,7 +164,7 @@ Link to the document for the design of our Video: [Video](https://docs.google.co
 - [j-p_corry](https://2020.healthhack.solutions/user/j-p_corry)
 - [bhupinder_bhullar 🧬](https://2020.healthhack.solutions/user/bhupinder_bhullar)
 - [Guillaume Azarias ⚙️](https://www.linkedin.com/in/guillaume-azarias/)
-- [thomas_roos](https://2020.healthhack.solutions/user/thomas_roos)
+- [thomas_roos](https://www.linkedin.com/in/thomas-roos-41572610/)
 - [Elaine K.](https://2020.healthhack.solutions/user/Elaine%20K.)
 - [prabitha_urwyler 🧬](https://2020.healthhack.solutions/user/prabitha_urwyler)
 - [Egle_Thomas](https://www.linkedin.com/in/eglethomas/)
