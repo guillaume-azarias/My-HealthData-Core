@@ -55,7 +55,6 @@ developer and what could be achieved in the time period we had. Given the resour
 
 
 ## Description of the solution:
-![preview](App_StartScreen_Phone.png)
 
 My Health Data Core is a light app, working on mobiles and websites designed to be patient-friendly and easy to navigate *during a medical appointment*. It allows you, as a patient, to:
 
@@ -64,7 +63,8 @@ My Health Data Core is a light app, working on mobiles and websites designed to 
 as a document or using the mobile camera.
 -	Define the persons allowed to access specific documents (ie. dynamic consent at a *granular* level).
 
-Our Patient Champions will benefit from having access to their own complete set of health/medical records in a single place, thus allowing them to not only be more informed but also enabling them to actively participate in their healthcare journey. 
+Our Patient Champions will benefit from having access to their own complete set of health/medical records in a single place, thus allowing them to not only be more informed but also enabling them to actively participate in their healthcare journey.
+
 Some of the benefits to Patients are:
 
 -	Allows sharing of accurate + complete information about health history, on an as-needed basis with healthcare providers.
@@ -82,15 +82,18 @@ Some of the benefits to other stakeholders in the Healthcare Ecosystem are:
 
 
 ## Our Milestones, achievements and prototype
-*Week 1*:  Assembling a multidisciplinary team, understanding the Patient Champions needs, defining the goals/outcomes of the project, designing the user interface, exploration of existing tools. 
+*Week 1*:  Assembling a multidisciplinary team, understanding the Patient Champions needs, defining the goals/outcomes of the project, designing the user interface, exploration of existing tools.
+
 Understanding the 2 main approaches :
+
 - Create an application to store medical data (feasible).
 - Develop an interface software to connect the most used software for healthcare professionals (not feasible).
  
 *Week 2*: Continuing to get feedback from Patient Champions during our development process, accessing patient data records, UI/UX prototype design, creating the deliverables for submission at the end of the health hack.
+
 - Development of a prototype solution with the minimum set of agreed upon features.
 - Conducted 2 sprints with feedback from patient champions and the team.
-Prepared documentation (GitHub) for the project, content for the hackathon submission, and a 3 minute video pitch.
+- Prepared documentation (GitHub) for the project, content for the hackathon submission, and a 3 minute video pitch.
 
 
 ## Challenges we encountered
@@ -179,3 +182,5 @@ Link to the document for the design of our Video: [Video](https://docs.google.co
 - [amy_wilson 🧬 🛡️](https://2020.healthhack.solutions/user/amy_wilson)
 - [pascal_detampel](https://2020.healthhack.solutions/user/pascal_detampel)
 - [ PeterHummelUX 🖍️](https://www.linkedin.com/in/hummelpeter/)
+
+![preview](App_StartScreen_Phone.png)
