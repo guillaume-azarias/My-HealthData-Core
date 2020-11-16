@@ -119,7 +119,7 @@ We used the software Adobe Photoshop, Slack, Powerpoint, Google Drive.
 
 ## Contact / promotion channels on our social media
 
-We set up [DayOne webpage](https://2020.healthhack.solutions/project/78) and GitHub page. We advertised the DayOne HealthHack using social media (eg, LinkedIn and Instagram).
+We set up the [DayOne HealthHack project page](https://2020.healthhack.solutions/project/78) and GitHub page. We advertised the DayOne HealthHack using social media (eg, LinkedIn and Instagram).
 
 
 ## Our takeaways and learnings
