@@ -1,6 +1,7 @@
 # File types to ignore
 *.pptx
 *.dcm
+*.mov
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
